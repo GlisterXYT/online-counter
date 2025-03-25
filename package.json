@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "firebase": "^11.5.0",
     "puppeteer": "^24.4.0"
   }
 }
